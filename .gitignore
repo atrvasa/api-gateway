@@ -1,3 +1,6 @@
+*.iml
+/target
+*.sample.*
 # Compiled class file
 *.class
 
